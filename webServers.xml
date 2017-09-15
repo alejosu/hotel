@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ddc7482c-51c9-4f45-bccd-7c71efbe00ea" name="hotel" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/PhpStormProjects" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
