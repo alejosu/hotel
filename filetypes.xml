@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="BranchRouteRedirect" type="PHP" />
+      <mapping pattern="vagrant share" type="PLAIN_TEXT" />
       <mapping pattern=".env.codeship" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
